@@ -1,6 +1,6 @@
 /* the styles for the elements */
 :root {
-	--global-color-1: #4d0080;
+	--global-color-1: #800000;
 }
 body {
 	font-family: Arial, Helvetica, sans-serif;
@@ -14,7 +14,7 @@ header img {
 
 header h2 {
 	font-size: 170%;
-	color: var(--global-color-1);
+	color: #800000;
 	text-indent: 30px;
 }
 

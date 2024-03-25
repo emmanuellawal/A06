@@ -25,7 +25,7 @@ header h3 {
 }
 
 .shadow {
-	text-shadow: 1.5px 1.5px 1.5px --global-color-1;
+	text-shadow: 1.5px 1.5px 1.5px #800000;
 }
 
 /* the styles for the main content */

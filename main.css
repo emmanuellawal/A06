@@ -46,7 +46,7 @@ main h2 {
 main h3 {
 	font-size: 105%;
 }
-a :hover{
+a:focus, a:hover{
 	font-style: italic;
 }
 /* the styles for the footer */

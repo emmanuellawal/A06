@@ -13,13 +13,13 @@ header img {
 	float: left;
 }
 
-h2 {
+header h2 {
 	font-size: 170%;
 	color: #800000;
 	text-indent: 30px;
 }
 
-h3 {
+header h3 {
 	font-size: 190%;
 	font-style: italic;
 	text-indent: 30px;
